@@ -1,0 +1,20 @@
+Questão 1: Crie um programa que exibe na tela um Olá mundo em Python, Java e C/C++.
+Quais suas considerações relacionadas aos critérios de classificação das linguagens: Legibilidade, Facilidade de Escrita, Confiabilidade.
+
+Legilibilidade: 
+Nesse quesito Python sai na frente pois com um único comando consegui ler o objetivo proposto de printar na tela o texto.
+Já com java e c é mais verboso com configuração além da finalidade da tarefa.
+
+Facilidade de escrita:
+Python também ganha muito, pois foi preciso escrever apenas uma linha. Já as outras linguagens, java e c,
+foi preciso escrever mais código para configurar minimamente e poder executar.
+
+Confiabilidade:
+Ao realizar uma pesquisa sobre confiabilidade, percebi muito a questão do gerenciamento de memória,
+e nesse quesito o c é muito poderoso e ao mesmo tempo requer experiência para ser robusto e eficaz nisso.
+Já o java fica em segundo plano, que também possui uma confiabilidade alta e gerencimaento automático e eficaz. Python foi o menos confiável
+nesse quesito porque é menos previsivel em comparação a linguagens compiladas e é menos eficiente nesse gerenciamento.
+
+Em geral confiabilidade vai depender muito das demandas que o projeto colocar, e também da equipe de desenvolvimento com sua experiência.
+
+
