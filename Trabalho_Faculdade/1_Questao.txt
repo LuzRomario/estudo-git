@@ -1,4 +1,5 @@
 Questão 1: Crie um programa que exibe na tela um Olá mundo em Python, Java e C/C++.
+
 Quais suas considerações relacionadas aos critérios de classificação das linguagens: Legibilidade, Facilidade de Escrita, Confiabilidade.
 
 Legilibilidade: 

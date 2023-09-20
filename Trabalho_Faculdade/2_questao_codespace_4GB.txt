@@ -1,4 +1,6 @@
-// 8GB e 2 core
+// 8GB RAM
+// AMD EPYC 7763 com 2 core a 3217.113Mhz
+// codespace do github com ubuntu 20.04 (Focal Fossa)
 
 Em c/c++
 
@@ -23,7 +25,7 @@ Em python
 
 1) 1 até 1.000.000
 Soma: 500000500000
-Tempo de execução: 16.268 ms
+Tempo de execução: 16.59 ms
 
 2)1 até 10.000.000
 Soma: 50000005000000
@@ -39,4 +41,18 @@ Tempo de execução: 1468 ms, equivalem a 14.32 segundos.
 
 Em Java
 
+1) 1 até 1.000.000
+Soma: 500000500000
+Tempo de execução: 4ms
 
+2)1 até 10.000.000
+Soma: 50000005000000
+Tempo de execução: 13ms
+
+3) 1 até 100.000.000
+Soma: 5000000050000000
+Tempo de execução: 52ms
+
+4) 1 até 1.000.000.000
+Soma: 500000000500000000
+Tempo de execução: 543ms, equivalente a 0,53 segundos.
